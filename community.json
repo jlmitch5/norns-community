@@ -18,7 +18,7 @@
       "author": "Nathan (mimetaur)",
       "description": "map arc encoders to up to four parameters (eight with a shift key)",
       "discussion_url": "https://llllllll.co/t/arcify/22133",
-      "tags": ["lib"],
+      "tags": ["arc", "lib"],
       "origin": "lines"
     },
     {
